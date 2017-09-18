@@ -1,0 +1,5 @@
+a = TRUE;
+b = FALSE;
+c = a and !b;
+
+print c;

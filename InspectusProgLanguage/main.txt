@@ -1,0 +1,3 @@
+a = TRUE AND (TRUE OR FALSE);
+
+print a;

@@ -1,0 +1,8 @@
+a = FALSE EQ FALSE;
+b = FALSE EQ TRUE;
+c = TRUE EQ FALSE;
+d = TRUE EQ TRUE;
+print a;
+print b;
+print c;
+print d;

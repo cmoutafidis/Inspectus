@@ -1,0 +1,3 @@
+a = TRUE EQ FALSE OR (FALSE -> TRUE);
+
+print a;

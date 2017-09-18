@@ -1,0 +1,8 @@
+a = FALSE XOR FALSE;
+b = FALSE XOR TRUE;
+c = TRUE XOR FALSE;
+d = TRUE XOR TRUE;
+print a;
+print b;
+print c;
+print d;

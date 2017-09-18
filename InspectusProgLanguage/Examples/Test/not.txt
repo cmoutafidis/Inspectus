@@ -1,0 +1,4 @@
+a = TRUE;
+print a;
+a = !a;
+print a;

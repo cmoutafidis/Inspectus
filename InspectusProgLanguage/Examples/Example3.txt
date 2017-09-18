@@ -1,0 +1,6 @@
+a = TRUE;
+a = !a;
+b = a OR !a;
+
+print a;
+print b;

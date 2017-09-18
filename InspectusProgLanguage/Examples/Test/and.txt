@@ -1,0 +1,8 @@
+a = FALSE AND FALSE;
+b = FALSE AND TRUE;
+c = TRUE AND FALSE;
+d = TRUE AND TRUE;
+print a;
+print b;
+print c;
+print d;
