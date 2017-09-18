@@ -12,16 +12,25 @@
  An operation contains: Operators/(TRUE/FALSE)/Variables
  
  Operator's priority: Usage
+ 
  Brackets:            (...)
+ 
  Not:                 !...
+ 
  And:                 ...AND...
+ 
  Or:                  ...OR...
+ 
  Xor:                 ...XOR...
+ 
  Implication:         ...->...
+ 
  Equivalent:          ...EQ...
+ 
  Assign:              'varName' = ...
  
  Functions:   Usage
+ 
  print:       print 'operation'
  
  AFTER EACH OPERATION USE ';'.
